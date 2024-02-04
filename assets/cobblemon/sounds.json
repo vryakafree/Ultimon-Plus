@@ -1,0 +1,14 @@
+{
+    "pokemon.ashgreninja.music": {
+        "sounds": [ "cobblemon:pokemon/ashgreninja/ashgreninjatheme" ]
+    },
+	"pokemon.togepi.cry": {
+    "sounds": [ "cobblemon:pokemon/togepi/togepi_cry" ]
+	},
+	"pokemon.diancie.cry": {
+    "sounds": [ "cobblemon:pokemon/diancie/diancie_cry" ]
+	},
+	"pokemon.carbink.cry": {
+    "sounds": [ "cobblemon:pokemon/carbink/carbink_cry" ]
+	}
+}

@@ -1,0 +1,128 @@
+{
+ "target": "cobblemon:lilligant",
+ "features": ["hisuian"],
+ "forms": [
+    {
+      "name": "Hisui",
+      "primaryType": "grass",
+      "secondaryType": "fighting",
+      "abilities": [
+        "chlorophyll",
+        "hustle",
+        "h:leafguard"
+      ],
+	  "baseStats": {
+        "hp": 70,
+        "attack": 105,
+        "defence": 75,
+        "special_attack": 50,
+        "special_defence": 75,
+        "speed": 105
+      },
+	  "catchRate": 75,
+      "maleRatio": 0,
+      "baseExperienceYield": 168,
+      "baseFriendship": 50,
+      "evYield": {
+        "hp": 0,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 2,
+        "special_defence": 0,
+        "speed": 0
+      },
+	  "experienceGroup": "medium_fast",
+      "eggCycles": 20,
+      "eggGroups": [
+		"grass"
+      ],
+	  "moves": [
+        "1:absorb",
+        "1:afteryou",
+        "1:defog",
+        "1:energyball",
+        "1:entrainment",
+        "1:gigadrain",
+        "1:growth",
+        "1:helpinghand",
+        "1:leafblade",
+        "1:leafstorm",
+        "1:leechseed",
+        "1:magicalleaf",
+        "1:megadrain",
+        "1:megakick",
+        "1:petalblizzard",
+        "1:sleeppowder",
+        "1:solarblade",
+        "1:stunspore",
+        "1:sunnyday",
+        "1:synthesis",
+        "1:teeterdance",
+        "5:axekick",
+        "tm:acrobatics",
+        "tm:aerialace",
+        "tm:airslash",
+        "tm:brickbreak",
+        "tm:bulletseed",
+        "tm:charm",
+        "tm:closecombat",
+        "tm:encore",
+        "tm:endure",
+        "tm:energyball",
+        "tm:facade",
+        "tm:gigadrain",
+        "tm:gigaimpact",
+        "tm:grassknot",
+        "tm:grassyterrain",
+        "tm:helpinghand",
+        "tm:hurricane",
+        "tm:hyperbeam",
+        "tm:icespinner",
+        "tm:leafstorm",
+        "tm:lowkick",
+        "tm:lowsweep",
+        "tm:magicalleaf",
+        "tm:metronome",
+        "tm:poisonjab",
+        "tm:pollenpuff",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:seedbomb",
+        "tm:sleeptalk",
+        "tm:solarbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swordsdance",
+        "tm:takedown",
+        "tm:terablast",
+        "tm:trailblaze"
+      ],
+	  "labels": [
+        "gen8",
+        "hisui_regional"
+	  ],
+      "aspects": [
+        "hisuian"
+      ],
+	  "height": 12,
+      "weight": 192,
+      "preEvolution": "petilil",
+      "evolutions": [],
+      "cannotDynamax": false,
+      "battleOnly": false,
+	  "baseScale": 0.8,
+	  "hitbox": {
+      "width": 0.9,
+      "height": 1.6,
+      "fixed": false
+	  }
+	  }
+	  ],
+ "baseScale": 1,
+ "hitbox": {
+	"width": 1,
+	"height": 1.4,
+	"fixed": false  
+	}
+}

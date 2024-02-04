@@ -1,0 +1,30 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "celebi-1",
+            "pokemon": "celebi",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50",
+            "weight": 0.05,
+            "condition": {
+                "canSeeSky": true,
+                "timeRange": "day",
+                "biomes": [
+                    "minecraft:flower_forest"
+                ],
+                "neededBaseBlocks": [
+                    "minecraft:grass_block"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:logs",
+                    "#minecraft:flowers"
+                ]
+            }
+        }
+    ]
+}

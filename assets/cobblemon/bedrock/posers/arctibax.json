@@ -1,0 +1,34 @@
+{
+  "head": "head",
+  "portraitScale": 3,
+  "portraitTranslation": [-0.7, -1.25, 0.0],
+  "profileScale": 1.1,
+  "profileTranslation": [0.0, 0.1, 0.0],
+    "faint": "bedrock(arctibax, faint)",
+	"cry": "bedrock(arctibax, cry)",
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+		  "look",
+          "bedrock(arctibax, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "look",
+          "bedrock(arctibax, ground_walk)"
+        ]
+      }
+    }
+  }
